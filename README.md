@@ -2,4 +2,6 @@
 Projet Semestriel en JAVA orienté Objet utilisant JavaFX, Scenebuilder. Jeu 2D Type Terraria.
 
 Déplacement dynamique du joueur - Scrolling map.
+(Gameloop / KeyEvent, Heritage, Classes abstraites).
+
 
